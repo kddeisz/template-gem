@@ -1,5 +1,8 @@
 # Template
 
+[![Build Status](https://github.com/kddeisz/template/workflows/Main/badge.svg)](https://github.com/kddeisz/template/actions)
+[![Gem Version](https://img.shields.io/gem/v/template.svg)](https://rubygems.org/gems/template)
+
 ## Installation
 
 Add this line to your application's Gemfile:
