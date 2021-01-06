@@ -5,8 +5,8 @@ require_relative 'lib/template/version'
 Gem::Specification.new do |spec|
   spec.name          = 'template'
   spec.version       = Template::VERSION
-  spec.authors       = ['Kevin Deisz']
-  spec.email         = ['kevin.deisz@gmail.com']
+  spec.authors       = ['Kevin Newton']
+  spec.email         = ['kevin.deisz+github@gmail.com']
 
   spec.summary       = 'This is a gem template'
   spec.homepage      = 'https://github.com/kddeisz/template'
