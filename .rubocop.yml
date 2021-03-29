@@ -1,6 +1,7 @@
 AllCops:
   DisplayCopNames: true
   DisplayStyleGuide: true
+  SuggestExtensions: false
   TargetRubyVersion: 3.0
   NewCops: enable
   Exclude:
